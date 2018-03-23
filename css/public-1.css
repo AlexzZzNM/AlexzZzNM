@@ -111,5 +111,7 @@ input:focus{border:none;}
 .footer .copyright{height:50px;line-height:50px;text-align:center;border-top:1px solid #f3f3f3;}*/
 
 
+
+.btn_ft{    width: 100%!important; line-height: 34px;} 
 .wx-box{position:fixed;left:0;top:0;width:100%;height:100%;background:rgba(0,0,0,0.5);z-index:10;display:none;z-index:1000;}
 .wx-box .img{width:150px;height:160px;text-align:center;font-size:14px;color:#fff;position:absolute;left:0;right:0;margin:auto;top:50%;margin-top:-80px;}
